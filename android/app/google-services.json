@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893004102284",
+    "project_id": "chatapp-atlitgagal",
+    "storage_bucket": "chatapp-atlitgagal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893004102284:android:2d6825a38123b90f55d9a9",
+        "android_client_info": {
+          "package_name": "com.atlitgagal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893004102284-l2f5etu9cp60kskstcj8vtvnkptjjlas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atlitgagal.chatapp",
+            "certificate_hash": "838d7dd57d640b3f437fad958d2712b2b4965c30"
+          }
+        },
+        {
+          "client_id": "893004102284-q7rel5dopjmkk8v7tanldto595v0rqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7Ww35OSwFQgSmtAZsCcafMxYeopK9a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893004102284-q7rel5dopjmkk8v7tanldto595v0rqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
